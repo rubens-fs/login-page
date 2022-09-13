@@ -10,7 +10,7 @@ Página de login utilizando HTML5, CSS3 e Javascript, com responsividade.
 
 ## 🛠️ Conteúdo Original
 
-O projeto original poderá ser visto no canal [Dev Batista](https://www.youtube.com/channel/UC44Y7HUcjOu200dbBYjSjjQ).
+[Clique aqui!](https://www.youtube.com/channel/UC44Y7HUcjOu200dbBYjSjjQ).
 
 ## 📧 Contato
 
